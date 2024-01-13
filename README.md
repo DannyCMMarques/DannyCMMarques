@@ -25,7 +25,11 @@ Olá! Eu sou a Danny e apaixonada por transformar ideias em código!👩‍💻T
 
 ##
 
-#### **Obrigada por visitar o meu perfil!** 🚀✨ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dannycmmarques/count.svg" />
+</p>
+####  Obrigada por visitar o meu perfil! 🚀✨ 
 
 
 
