@@ -14,6 +14,9 @@ Aqui você vai achar alguns projetos que eu fiz, estou aberta sempre a feedbacks
 ### 🛠️Ferramentas e Tecnológias:
 [![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,css,sass,bootstrap,figma,git,tailwind)](https://skillicons.dev)
 
+### 🛠️Estudando atualmente:
+[![Skills](https://skillicons.dev/icons?i=nextjs,mysql,nodejs,prisma)](https://skillicons.dev)
+
  ##
  
 ### 📭Entre em contato comigo:
