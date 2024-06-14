@@ -4,7 +4,9 @@
 
 ###  💬About me:
 Olá! Eu sou a Danny e apaixonada por transformar ideias em código!
+<br>
 👩‍💻Tenho 23 anos e estou mergulhando de cabeça no mundo fascinante do desenvolvimento front-end 📲.
+<br>
 Aqui você vai achar alguns projetos que eu fiz, estou aberta sempre a feedbacks ✍️
 
 ##
