@@ -39,8 +39,6 @@ Aqui você vai achar alguns projetos que eu fiz, estou aberta sempre a feedbacks
  
  #### Obrigada por visitar o meu perfil! 🚀✨ 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=footer"/>
-
 
 
 
