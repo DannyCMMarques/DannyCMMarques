@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=4995&pause=1000&color=A73CCA&background=FF6AE300&center=true&vCenter=true&random=false&width=570&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 ###  💬About me:
-Olá! Eu sou a Danny e apaixonada por transformar ideias em código!
+Olá! Eu sou a Danny e apaixonada por transformar ideias em código! 👩‍💻
 <br>
-👩‍💻Tenho 23 anos e estou mergulhando de cabeça no mundo fascinante do desenvolvimento front-end 📲.
+Tenho 23 anos e estou mergulhando de cabeça no mundo fascinante do desenvolvimento front-end 📲.
 <br>
 Aqui você vai achar alguns projetos que eu fiz, estou aberta sempre a feedbacks ✍️
 
