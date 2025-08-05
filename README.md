@@ -5,7 +5,7 @@
 
 💻 Atualmente, dedico-me ao desenvolvimento de projetos utilizando tecnologias como **JavaScript**, **TypeScript**, **React**, **Angular**, **Java**, **Spring**, **SQL**, **JUnit**, **Jest** e **Mockito**. Estou sempre em busca de novas oportunidades para aprender e melhorar minhas habilidades.
 
-📚 No momento, meus estudos estão focados em **Clean Code**, **Design Patterns**, aprimoramento de **bancos de dados** e **testes**, visando entregar soluções de alta qualidade e mais eficientes.
+📚 No momento, meus estudos estão focados em **Clean Code**, **Design Patterns** e aprimoramento de **bancos de dados** , visando entregar soluções de alta qualidade e mais eficientes.
 
 🔍 Acredito que a chave para um bom desenvolvimento está no equilíbrio entre a teoria e a prática, e estou cada vez mais comprometida em crescer como desenvolvedora.
 
