@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=4995&pause=1000&color=A73CCA&background=FF6AE300&center=true&vCenter=true&random=false&width=570&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 ###  💬About me:
-🌟 **Olá!** Tenho 24 anos e há quase 2 anos estou imersa no mundo do desenvolvimento. Minha jornada começou com uma grande paixão pelo front-end, mas o entusiasmo cresceu ainda mais quando explorei o back-end e o universo dos bancos de dados.
+🌟 **Olá!** Tenho 25 anos e há quase 3 anos estou imersa no mundo do desenvolvimento. Minha jornada começou com uma grande paixão pelo front-end, mas o entusiasmo cresceu ainda mais quando explorei o back-end e o universo dos bancos de dados.
 
 💻 Atualmente, dedico-me ao desenvolvimento de projetos utilizando tecnologias como **JavaScript**, **TypeScript**, **React**, **Angular**, *React Native*, **Java**, **Spring**, **SQL**, **JUnit**, **Jest** e **Mockito**. Estou sempre em busca de novas oportunidades para aprender e melhorar minhas habilidades.
 
